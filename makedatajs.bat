@@ -1,0 +1,1 @@
+browserify --debug client.js > data.js
